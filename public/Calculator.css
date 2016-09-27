@@ -1,0 +1,36 @@
+
+#top{ 
+background-color: #e6e6e6;
+}
+
+table, tr, td, th {
+  table-layout: fixed;
+  padding: 5px;
+  border: 2px solid;
+  border-color: #cccccc;
+  border-collapse: collapse;
+}
+
+
+
+#innerdiv {
+	background: #e9eef1;
+	padding: 20px 0;
+}
+
+#buttons {
+	text-align: right;
+}
+
+button {
+  color: white;
+  background-color: #cc0000;
+  border-style: hidden;
+  border-radius: 3px;
+  font-size: 11px;
+  width: 75px;
+  margin: 10px;
+  height: 30px;
+
+}
+
